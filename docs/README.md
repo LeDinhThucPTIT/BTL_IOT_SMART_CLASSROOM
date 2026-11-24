@@ -4,6 +4,8 @@ SmartClass IoT kết hợp quản lý phòng học, giám sát môi trường, �
 
 ## Tài liệu chính
 
+**Báo cáo đầy đủ theo đề cương môn học:** [Word để chỉnh sửa](bao-cao/Bao_cao_SmartClass_IoT.docx) · [PDF 51 trang](bao-cao/Bao_cao_SmartClass_IoT.pdf) · [Bản HTML](bao-cao/Bao_cao_SmartClass_IoT.html) · [Hướng dẫn cập nhật](bao-cao/README.md). Gồm 40 trang trước phụ lục và 11 trang phụ lục, có 16 hình minh họa; EER nằm ở trang 49–51. Thông tin bìa và nhóm để trống để điền.
+
 | Tài liệu | Nội dung |
 |---|---|
 | [Báo cáo hệ thống](BAO_CAO_HE_THONG.md) | Mục tiêu, kiến trúc, phần cứng, chức năng, dữ liệu, AI và giới hạn |
